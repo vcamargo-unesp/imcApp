@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imcApp5", "imcApp5\imcApp5.csproj", "{28E25F32-DA5A-468A-BF84-9D4EF5CD7DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E25F32-DA5A-468A-BF84-9D4EF5CD7DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E25F32-DA5A-468A-BF84-9D4EF5CD7DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E25F32-DA5A-468A-BF84-9D4EF5CD7DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E25F32-DA5A-468A-BF84-9D4EF5CD7DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94E6DAD-D9B6-4CFC-AA7E-7E5273EC8A2C}
+	EndGlobalSection
+EndGlobal
